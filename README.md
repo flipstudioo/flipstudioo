@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ottochn
+- 👋 Hi, I’m @FlipStudioo
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on ...
